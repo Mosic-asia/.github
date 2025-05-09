@@ -7,10 +7,9 @@
 アプローチ:
 回想トレーニングや記憶刺激によって脳の活性化と心理的なつながりを促進し、認知症の予防・進行抑制を図る。
 
----
+--
 
-### 「記憶サポートサービス」 の Front-end 開発 Repository です。
-#### Commit rule : [Gitmoji](https://gitmoji.dev/)
+### Commit rule : [Gitmoji](https://gitmoji.dev/)
 
 - npm i -g gitmoji-cli     
 - gitmoji -c
