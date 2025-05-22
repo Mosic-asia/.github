@@ -2,6 +2,12 @@
 
 <img src="https://github.com/user-attachments/assets/09ccc812-3460-4ea4-81eb-fb64cbea3e3b" width="200" height="200"/>
 
+## 🔗 リポジトリ / Repositories
+
+- KIOKU [FRONT-END REPO](https://github.com/Mosic-asia/Project-kiokuSupportService-react-repo)
+- Project-kiokuSupportService-react-repo [BACK-END REPO](https://github.com/Mosic-asia/kioku)
+
+---
 
 ## 📖 プロジェクト紹介 / Project Overview
 
@@ -48,13 +54,6 @@
   - Ollama server running Qwen2.5 LLM (currently 5B parameters)
 - **データベース / Database**: SQLite/MySQL  
   (users, emergency_contacts, journals, reminders, messages etc.)
-
----
-
-## 🔗 リポジトリ / Repositories
-
-- [FRONT-END REPO](https://github.com/Mosic-asia/Project-kiokuSupportService-react-repo)
-- [BACK-END REPO](https://github.com/Mosic-asia/kioku)
 
 ---
 
