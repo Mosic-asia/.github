@@ -1,6 +1,6 @@
 # 暖かい日記 (Nuan-kaiRi-Ji)
 
- [시안 스크린샷](file:///Users/hyojin/Documents/대외활동/대외활동_일본헤커톤/cloud.png)
+![Image](https://github.com/user-attachments/assets/09ccc812-3460-4ea4-81eb-fb64cbea3e3b)
 
 ---
 
@@ -14,6 +14,7 @@
 - 「記憶クイズ」機能では、AIがユーザーのリマインダーや過去の出来事について質問し、認知力の維持・向上をサポートします。
 - 緊急連絡先やプロフィール、病院情報も一目で確認できるなど、高齢者の安心と家族の見守りを両立します。
 - **高齢者にやさしいUI**（大きな文字・明るい配色・シンプルな構成・タッチ最適化）で、誰でも簡単に使えます。
+- "実はこのキャラクター、雲じゃなくて…脳なんです！🧠（笑）"
 
 **English**  
 **Nuan-kaiRi-Ji** is an AI-powered, interactive diary and reminder web app designed for older adults.
@@ -23,6 +24,7 @@
 - The "Memory Quiz" feature helps users maintain and improve cognitive skills by asking questions about their reminders or past events.
 - Emergency contacts, profile, and hospital information are always accessible, supporting both user safety and family peace of mind.
 - **Senior-friendly UI**: Large text, bright colors, simple layout, and touch optimization make it easy for anyone to use.
+- "Surprise: our cute 'cloud' is... really a brain! 🧠"
 
 ---
 
