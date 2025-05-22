@@ -1,6 +1,6 @@
 # 暖かい日記 (Nuan-kaiRi-Ji)
 
-// ![시안 스크린샷](https://pplx-res.cloudinary.com/image/private/user_uploads/71039046/b8b597c3-c34c-42d4-a7ea-fa89c9ca2115/Nuan-kaiRi-Ji-1.jpg)
+ [시안 스크린샷](file:///Users/hyojin/Documents/대외활동/대외활동_일본헤커톤/cloud.png)
 
 ---
 
