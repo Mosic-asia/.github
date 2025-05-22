@@ -95,9 +95,9 @@ record daily life, manage medication/schedules, maintain social connection, and 
 
 ## 📎 参考 / References
 
-- [API仕様書 / API Specification (PDF)](./Memory-App-API-Specification-AI-API-Specification.pdf)
-- [DBテーブル設計 / DB Table Design (PDF)](./Memory-App-API-Specification-Database-tables.pdf)
-- [UIシナリオ画像 / UI Scenario Image](https://pplx-res.cloudinary.com/image/private/user_uploads/71039046/b8b597c3-c34c-42d4-a7ea-fa89c9ca2115/Nuan-kaiRi-Ji-1.jpg)
+- [API仕様書 / API Specification (PDF)](#)
+- [DBテーブル設計 / DB Table Design (PDF)](#)
+- [UIシナリオ画像 / UI Scenario](https://www.figma.com/design/eXuBKPr1bgMYAgFvt74kod/%E7%94%9F%E6%88%90AI?node-id=0-1&t=Xzn8luunkhiqWV38-1)
 
 ---
 
