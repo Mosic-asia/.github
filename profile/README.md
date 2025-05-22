@@ -16,7 +16,7 @@
 - "実はこのキャラクター、雲じゃなくて…脳なんです！🧠（笑）"
 
 **English**  
-**Nuan-kaiRi-Ji** is an AI-powered, interactive diary and reminder web app designed for older adults.
+**Atatakai Nikki** is an AI-powered, interactive diary and reminder web app designed for older adults.
 
 - Users can interact with a friendly cloud character and easily record daily life, health, medication, and schedules through natural conversation.
 - The chatbot automatically detects important events or medication instructions during conversations and registers them as reminders. Daily chats are automatically summarized and saved as "journals."
