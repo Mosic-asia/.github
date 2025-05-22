@@ -1,6 +1,6 @@
 # 暖かい日記 (Nuan-kaiRi-Ji)
 
-!<img src="https://github.com/user-attachments/assets/09ccc812-3460-4ea4-81eb-fb64cbea3e3b width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/09ccc812-3460-4ea4-81eb-fb64cbea3e3b" width="200" height="200"/>
 
 
 ## 📖 プロジェクト紹介 / Project Overview
