@@ -1,4 +1,4 @@
-# 暖かい日記
+# Satori Cloud
 
 <img src="https://github.com/user-attachments/assets/09ccc812-3460-4ea4-81eb-fb64cbea3e3b" width="200" height="200"/>
 
@@ -12,7 +12,7 @@
 ## 📖 プロジェクト紹介 / Project Overview
 
 **日本語**  
-**暖かい日記**は、高齢者のために設計されたAI搭載の対話型日記・リマインダーWebアプリです。
+**Satori Cloud**は、高齢者のために設計されたAI搭載の対話型日記・リマインダーWebアプリです。
 
 - ユーザーは雲のキャラクターと自然な会話をしながら、日常・健康・服薬・予定などの情報を優しく簡単に記録できます。
 - チャットボットは会話中に重要な予定や服薬情報を自動検出し、リマインダーとして登録します。また、日常会話は自動で「日記」として要約・保存されます。
@@ -22,7 +22,7 @@
 - "実はこのキャラクター、雲じゃなくて…脳なんです！🧠（笑）"
 
 **English**  
-**Atatakai Nikki** is an AI-powered, interactive diary and reminder web app designed for older adults.
+**Satori Cloud** is an AI-powered, interactive diary and reminder web app designed for older adults.
 
 - Users can interact with a friendly cloud character and easily record daily life, health, medication, and schedules through natural conversation.
 - The chatbot automatically detects important events or medication instructions during conversations and registers them as reminders. Daily chats are automatically summarized and saved as "journals."
