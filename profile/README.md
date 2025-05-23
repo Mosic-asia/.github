@@ -4,8 +4,8 @@
 
 ## 🔗 リポジトリ / Repositories
 
-- KIOKU [FRONT-END REPO](https://github.com/Mosic-asia/Project-kiokuSupportService-react-repo)
-- Project-kiokuSupportService-react-repo [BACK-END REPO](https://github.com/Mosic-asia/kioku)
+- Project-kiokuSupportService-react-repo [FRONT-END REPO](https://github.com/Mosic-asia/Project-kiokuSupportService-react-repo)
+-  KIOKU [BACK-END REPO](https://github.com/Mosic-asia/kioku)
 
 ---
 
